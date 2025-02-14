@@ -1,0 +1,22 @@
+body {
+    background-color:#FFECD2;
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    font-family:"Poppins", sans-serif;
+    justify-content: center;
+}
+
+.tebal {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.kartu {
+    width: 640px;
+    height: 380px;
+    border-radius: 16px;
+    background-color: #FFF;
+    position : relative;
+    -webkit-box-shadow: 0px
+}
